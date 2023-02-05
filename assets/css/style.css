@@ -492,10 +492,6 @@ button {
   transform: rotate(-180deg);
 }
 
-.logo_iimg{
-  fill: #6e57e0;
-}
-
 /* QUALIFICATION */
 .qualification_tabs {
   display: flex;
